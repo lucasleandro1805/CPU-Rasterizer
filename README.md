@@ -22,6 +22,7 @@ Also I would like to study more about parallelization techniques in C# and I fou
 Performance:<br>
 My CPU: Intel Core I5-8250U 1.6ghz<br>
 Running a screen of 300x300:<br>
+Mid frames rate: 25 frames per second.<br>
 Pixels per second: something around 2.5 million.<br>
 
 I found the performance very pleasant to be my first project of these.<br>
