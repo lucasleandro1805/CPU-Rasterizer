@@ -7,14 +7,14 @@
 <p>
 An OpenGL-like triangle rasterizer designed to run on the CPU only, with support for Vertex & Fragment Shaders.
 
-Features:(<br>)
--It has the same nomenclature as OpenGL.(<br>)
--It has Vertex and Fragment shaders.(<br>)
--Ultra parallelized.(<br>)
--Memory-efficient.(<br>)
--Renders to a Bitmap, which can be modified to support quick bitmap switching (thus creating a framebuffer system and allowing off-screen rendering).(<br>)
--Uniforms, Attributes & Varyings.(<br>)
--Simple.(<br>)
+Features:<br>
+-It has the same nomenclature as OpenGL.<br>
+-It has Vertex and Fragment shaders.<br>
+-Ultra parallelized.<br>
+-Memory-efficient.<br>
+-Renders to a Bitmap, which can be modified to support quick bitmap switching (thus creating a framebuffer system and allowing off-screen rendering).<br>
+-Uniforms, Attributes & Varyings.<br>
+-Simple.<br>
 
 I developed this project with the aim of studying and learning more about rasterizers and shaders. Also I would like to study more about parallelization techniques in C# and I found this a great project to test it.
 
