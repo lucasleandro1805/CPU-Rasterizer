@@ -2,7 +2,7 @@
 
 <h4>A simple CPU Rasterizer made with c#.</h4>
 
-![](https://github.com/lucasleandro1805/CPU-Rasterizer/blob/master/image/showcase.gif)
+![](https://github.com/lucasleandro1805/CPU-Rasterizer/blob/master/images/showcase.gif)
 
 <p>
 An OpenGL-like triangle rasterizer designed to run on the CPU only, with support for Vertex & Fragment Shaders.
